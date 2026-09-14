@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T22:35:46.066Z",
+  "generated_at": "2026-09-14T22:43:33.145Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -50,6 +50,19 @@
       "path": "problems/0004-calculate-mean-by-row-or-column",
       "first_solved_at": "2026-09-14T22:35:45.643Z",
       "last_pushed_at": "2026-09-14T22:35:45.643Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:5": {
+      "kind": "problem",
+      "id": "5",
+      "title": "Scalar Multiplication of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/5",
+      "path": "problems/0005-scalar-multiplication-of-a-matrix",
+      "first_solved_at": "2026-09-14T22:43:32.399Z",
+      "last_pushed_at": "2026-09-14T22:43:32.399Z",
       "language": "python",
       "lines": 7
     }
